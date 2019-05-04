@@ -1,0 +1,8 @@
+<entities anm2root="gfx/" version="5">
+		<!-- Wanted effect --> <entity id="1000" variant="8676" name="Wanted Icon" reroll="false" baseHP="0" stageHP="0" boss="0" champion="1" collisionDamage="0" collisionMass="14" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="0" portrait="100" anm2path="effects/wantedicon.anm2" bestiary="false" 	bestiaryTransform="0,0,1" bestiaryAnim="WalkRight">
+			<gibs amount="4" blood="1" bone="0" eye="0" gut="0" large="0" />
+		</entity>
+		<!-- Scruffy --> <entity id="3" variant="1953" name="Scruffy" reroll="false" baseHP="0" stageHP="0" boss="0" champion="1" collisionDamage="4" collisionMass="14" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="18" portrait="100" anm2path="familiar/scruffy.anm2" bestiary="false" bestiaryTransform="0,0,1" bestiaryAnim="WalkRight">
+			<gibs amount="4" blood="1" bone="0" eye="0" gut="0" large="0" />
+		</entity>
+</entities>

@@ -1,0 +1,24 @@
+<ItemPools>
+	<!--<Item Name="" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>-->
+    <Pool Name="boss">
+	
+    </Pool>
+	<Pool Name="secret">
+
+	</Pool>
+	<Pool Name="treasure">
+
+    </Pool>
+	<Pool Name="greedTreasure">
+
+    </Pool>
+	<Pool Name="angel">
+
+    </Pool>
+	<Pool Name="shop">
+
+    </Pool>
+	<Pool Name="devil">
+
+    </Pool>
+</ItemPools>

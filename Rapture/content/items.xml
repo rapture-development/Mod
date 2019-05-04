@@ -1,0 +1,19 @@
+<items gfxroot="gfx/items/" version="1">
+	<!-- lambchop items -->
+	<passive		gfx="Collectibles_000x_MercuryBoots.png"	name="Mercury Boots" description="Need for speed!"  /> 													<!-- Note: Use 'Left Shift' or 'Left Control' to dodge/dash. Translates to 'Right Trigger' on gamepad. -->
+	<passive		gfx="Collectibles_001x_Chopsticks.png"	name="Chopsticks" description="Tears + DMG up" cache="firedelay damage" /> 									<!-- Note: Tears + Damage up. -->
+	<passive		gfx="Collectibles_002x_ImmortalSoul.png"	name="Immortal Soul" description="Faith up" cache="shotspeed" soulhearts="2" /> 						<!-- Note: Makes soul and black hearts work like 'Immortal Hearts'. -->
+	<passive		gfx="Collectibles_003x_Slapstick.png"	name="Slapstick" description="Butt of the joke..." /> 														<!-- Note: When you get hit, gives the player 'The Sad Onion' effect. -->
+	<!--
+	<passive		gfx="Collectibles_004x_Butthead.png"	name="Butthead" description="You're full of crap!" cache="damage firedelay" />								<!-- Note: When you fire, fires other tears in a 'Monstro's Lung' type fashion. -->
+	-->
+	<passive		gfx="Collectibles_005x_Akedah.png"	name="Akedah" description="Break from your bonds and ascend..." cache="speed firedelay flying" />				<!-- Note: Isaac now flies, Tears and speed up. -->
+	
+	<!-- kakaodcat items -->
+	<passive name="Savings Bond" description="It'll be useful one day..." gfx="Collectibles_006x_SavingsBond.png" />
+	<passive name="Blood Money" description="Honest work..." gfx="Collectibles_007x_BloodMoney.png" />
+	<active name="Scruffy" description="Pay up!" gfx="Collectibles_008x_Scruffy.png" maxcharges="0"/>
+	<active name="Pluck!" description="Love me, Love me not..." gfx="Collectibles_009x_Pluck.png" maxcharges="4"/>
+	
+	
+</items>
